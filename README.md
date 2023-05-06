@@ -1,7 +1,5 @@
 # whatsapp-clone
 
-# whatsapp-clone
-
 <p align="center">
   <img  width="100" height="80%" src="https://lh3.googleusercontent.com/jwHnfMSqp3IryT21mXZ8TII8B73ztrmqPBcGRftQ36zdpPW-MrnAvLe_nvyHAflWiw9T" alt="Player music"></a>
 </p>
@@ -33,13 +31,13 @@ $ yarn start
 ## Intefaces:
 
 <p align="center">
-  <img width="100%" height="100%" src="D:\whatsapp-clone\whatsapp-clone\src\images\whatapp ss2.png" alt="Player music"></a>
+  <img width="100%" height="100%" src="" alt="Player music"></a>
 </p>
 
 ---
 
 <p align="center">
-  <img width="100%" height="100%" src="D:\whatsapp-clone\whatsapp-clone\src\images\whatsapp ss.png" alt="Player music"></a>
+  <img width="100%" height="100%" src="" alt="Player music"></a>
 </p>
 
 # Technology Used
