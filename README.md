@@ -1,4 +1,3 @@
-# whatsapp-clone
 
 # whatsapp-clone
 
@@ -45,8 +44,8 @@ $ yarn start
 </p>
 
 
-# Technology Used![whatsapp ss](https://user-images.githubusercontent.com/117716265/236618262-c6101b91-16a2-40fa-b4c8-4ba873ba7bb3.png)
-
+![whatsapp ss](https://user-images.githubusercontent.com/117716265/236618262-c6101b91-16a2-40fa-b4c8-4ba873ba7bb3.png)
+# Technology Used
 
 I have built this project using the following tools & techniques:
 
