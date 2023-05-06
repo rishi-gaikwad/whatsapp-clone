@@ -33,13 +33,13 @@ $ yarn start
 ## Intefaces:
 
 <p align="center">
-  <img width="100%" height="100%" src="https://i.imgur.com/mVHjYVQ.png" alt="Player music"></a>
+  <img width="100%" height="100%" src="D:\whatsapp-clone\whatsapp-clone\src\images\whatapp ss2.png" alt="Player music"></a>
 </p>
 
 ---
 
 <p align="center">
-  <img width="100%" height="100%" src="https://i.imgur.com/XSKX6If.png" alt="Player music"></a>
+  <img width="100%" height="100%" src="D:\whatsapp-clone\whatsapp-clone\src\images\whatsapp ss.png" alt="Player music"></a>
 </p>
 
 # Technology Used

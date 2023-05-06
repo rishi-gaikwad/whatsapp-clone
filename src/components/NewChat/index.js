@@ -10,19 +10,19 @@ export default ({ chatList, user, show, setShow }) => {
       id: 123,
       avatar:
         "https://cdn5.f-cdn.com/contestentries/1021089/23429701/59140a21875fc_thumb900.jpg",
-      name: "Caio Agiani",
+      name: "Siddesh Sinde",
     },
     {
       id: 1234,
       avatar:
         "https://cdn5.f-cdn.com/contestentries/1021089/23429701/59140a21875fc_thumb900.jpg",
-      name: "Lukas Agiani",
+      name: "Pratik Bankar",
     },
     {
       id: 12345,
       avatar:
         "https://cdn5.f-cdn.com/contestentries/1021089/23429701/59140a21875fc_thumb900.jpg",
-      name: "Hygor Agiani",
+      name: "Aditya Kulkarni",
     },
   ]);
 
