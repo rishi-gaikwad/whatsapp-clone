@@ -1,4 +1,3 @@
-
 <p align="center">
   <img  width="100" height="80%" src="https://lh3.googleusercontent.com/jwHnfMSqp3IryT21mXZ8TII8B73ztrmqPBcGRftQ36zdpPW-MrnAvLe_nvyHAflWiw9T" alt="Player music"></a>
 </p>
@@ -29,23 +28,9 @@ $ yarn start
 
 ## Intefaces:
 
-<<<<<<< HEAD
-<p align="center">
-  <img width="100%" height="100%" src="" alt="Player music"></a>
-</p>
-=======
->>>>>>> f0a777318ddc196f7a1acbd125be67c378ae3876
-
 ![whatapp ss2](https://user-images.githubusercontent.com/117716265/236618293-4f5728a6-bf05-4367-8d32-521d685d11d9.png)
 
-<<<<<<< HEAD
-<p align="center">
-  <img width="100%" height="100%" src="" alt="Player music"></a>
-</p>
-=======
-
 ![whatsapp ss](https://user-images.githubusercontent.com/117716265/236618262-c6101b91-16a2-40fa-b4c8-4ba873ba7bb3.png)
->>>>>>> f0a777318ddc196f7a1acbd125be67c378ae3876
 
 # Technology Used
 
