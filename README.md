@@ -31,20 +31,13 @@ $ yarn start
 
 ## Intefaces:
 
-<p align="center">
-  <img width="100%" height="100%" src="D:\whatsapp-clone\whatsapp-clone\src\images\whatapp ss2.png" alt="Player music"></a>
-  
-</p>
-
----
-
-<p align="center">
-  
+<p align="center">  
 ![whatapp ss2](https://user-images.githubusercontent.com/117716265/236618293-4f5728a6-bf05-4367-8d32-521d685d11d9.png)
 </p>
 
-
+<p align='center'>
 ![whatsapp ss](https://user-images.githubusercontent.com/117716265/236618262-c6101b91-16a2-40fa-b4c8-4ba873ba7bb3.png)
+</p>
 # Technology Used
 
 I have built this project using the following tools & techniques:
