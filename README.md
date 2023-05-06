@@ -26,11 +26,21 @@ $ yarn install
 $ yarn start
 ```
 
-## Intefaces:
+## Browse Page:
 
+<<<<<<< HEAD
 ![whatapp ss2](https://user-images.githubusercontent.com/117716265/236618293-4f5728a6-bf05-4367-8d32-521d685d11d9.png)
 
 ![whatsapp ss](https://user-images.githubusercontent.com/117716265/236618262-c6101b91-16a2-40fa-b4c8-4ba873ba7bb3.png)
+=======
+
+![whatapp ss2](https://user-images.githubusercontent.com/117716265/236618293-4f5728a6-bf05-4367-8d32-521d685d11d9.png)
+
+
+
+![whatsapp ss](https://user-images.githubusercontent.com/117716265/236618262-c6101b91-16a2-40fa-b4c8-4ba873ba7bb3.png)
+
+>>>>>>> 22dc5c1f4de2092e1c3354d7039950b0f870a518
 
 # Technology Used
 
